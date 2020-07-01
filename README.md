@@ -1,10 +1,10 @@
 # ping_pong
 
-### Welcome back to 90's. Here is your Ping-Pong game.
+### Welcome back. Here is your Ping-Pong game.
 
 ### Instructions : 
 1. Press Enter to Start
-2. Use WASD keys to play
+2. Use A D keys to play
 3. Have fun and do comment
 
 <p>
